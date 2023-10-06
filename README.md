@@ -1,0 +1,2 @@
+# labso
+Linux/C/Python
