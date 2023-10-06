@@ -1,6 +1,6 @@
 # Kubernetes Simulator
 
-Este projeto é uma simulação simples de um cluster Kubernetes usando threads em Python. Ele inclui um nodo Master, nodos Workers e a alocação de PODs com base em capacidades de CPU, memória e disco.
+Este projeto é uma simulação de um cluster Kubernetes usando threads em Python. Ele inclui um nodo Master, nodos Workers e a alocação de PODs com base em capacidades de CPU, memória e disco.
 
 ## Funcionalidades
 
